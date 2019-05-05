@@ -1,0 +1,3395 @@
+{
+  "errors": [
+    "./src/fonts/fonts.scss 1:0\nModule parse failed: Unexpected character '@' (1:0)\nYou may need an appropriate loader to handle this file type.\n> @font-face {\n|     font-family:  'Exo';\n|     src: url('../fonts/Exo2-Regular.eot');\n @ ./src/index.js 2:0-27",
+    "./src/scss/_custom.scss 1:0\nModule parse failed: Unexpected character '@' (1:0)\nYou may need an appropriate loader to handle this file type.\n> @import \"node_modules/bootstrap/scss/bootstrap\";\n| \n| $btn-color: #A73D61;\n @ ./src/index.js 3:0-28",
+    "./src/blocks/hotel/hotel.scss 1:0\nModule parse failed: Unexpected character '@' (1:0)\nYou may need an appropriate loader to handle this file type.\n> @mixin marata_font {\n|   padding: 2vw;\n|   height: 720px;\n @ ./src/index.js 9:0-34",
+    "./src/blocks/first_screen/__booking_module/__module.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .__module {\n|   background-color: rgba(255, 255, 255, 0.4);\n|   color: black;\n @ ./src/index.js 8:0-61",
+    "./src/blocks/first_screen/__title/__title.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .__title {\n|   background-color: rgba(255, 255, 255, 0.4);\n|   color: black;\n @ ./src/index.js 7:0-51",
+    "./src/blocks/discount/discount.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .discount {\n|   background-image: url('../../img/action.jpg');\n|   height: 400px;\n @ ./src/index.js 12:0-40",
+    "./src/blocks/discount/__module/discount__module.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .discount__text--style {\n|   font-style: Exo;\n|   font-size: 24px;\n @ ./src/index.js 13:0-57",
+    "./src/blocks/footer/footer.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .footer--bgcolor {\n|   height: 200px;\n|   background: linear-gradient(180deg, rgba(118, 141, 167, 0) 39.23%, #768DA7 100%);\n @ ./src/index.js 14:0-36",
+    "./src/blocks/footer/footer__icons.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .footer__icons {\n|   display: inline-block;\n| }\n @ ./src/index.js 15:0-43",
+    "./src/blocks/first_screen/first_screen.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .hello {\n|   background: white url('../../img/sliders/1st_screen/img_1_screen.jpg') top center no-repeat ;\n|   height: 720px;\n @ ./src/index.js 5:0-48",
+    "./src/blocks/hotel/__text/hotel__text.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .hotel__text {\n|   font-style: normal;\n|   font-weight: normal;\n @ ./src/index.js 11:0-47",
+    "./src/blocks/hotel/__title/hotel__title.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .hotel__title--h1 {\n|   margin-bottom: 0px;\n|   font-style: normal;\n @ ./src/index.js 10:0-49",
+    "./src/blocks/map/map.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .map__title {\n|   font-style: normal;\n|   font-weight: 800;\n @ ./src/index.js 19:0-30",
+    "./src/blocks/first_screen/__menu/__menu.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .menu_font {\n|   font-size: 1.4rem;\n|   font-family: 'Exo';\n @ ./src/index.js 6:0-49",
+    "./src/blocks/recall/recall.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .recall {\n|   background: linear-gradient(265.5deg, #FFFFFF 13.18%, rgba(255, 255, 255, 0) 27.15%), url('../../img/woman_smile.jpg');\n|   height: 365px;\n @ ./src/index.js 20:0-36",
+    "./src/blocks/recall/__text/recall__text.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .recall__title {\n|   font-style: normal;\n|   font-weight: 800;\n @ ./src/index.js 28:0-49",
+    "./src/blocks/reviews/reviews.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .review\t{}\n| \n| .reviews--style-h3 {\n @ ./src/index.js 21:0-38",
+    "./src/blocks/reviews/__block-review/rewievs__block-review.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .reviews__block-review-about {\n|   font-weight: bold;\n| }\n @ ./src/index.js 26:0-67",
+    "./src/blocks/reviews/__block-review/__quotes/review__quotes.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .reviews__quotes{\n|   background-image: url('../../../../img/icons/quotes.svg');\n|   width: 33px;\n @ ./src/index.js 25:0-69",
+    "./src/blocks/reviews/__block-review/__rating/reviews__rating.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .reviews__rating {\n|   background-image: url('../../../../img/icons/10.svg');\n|   width: 81px;\n @ ./src/index.js 24:0-70",
+    "./src/blocks/hotel/__slider/hotel__slider.scss 1:0\nModule parse failed: Unexpected token (1:0)\nYou may need an appropriate loader to handle this file type.\n> .slider-close {\n|   background-color: aqua;\n|   background-image: url('hotel__img/2.jpg');\n @ ./src/index.js 16:0-51",
+    "./src/blocks/template/template.scss 1:5\nModule parse failed: Unexpected token (1:5)\nYou may need an appropriate loader to handle this file type.\n> body {\n|   max-width: 2480px;\n|   min-width: 320px;\n @ ./src/index.js 4:0-40",
+    "./src/blocks/hotel/__icons/hotel__icons.scss 2:0\nModule parse failed: Unexpected token (2:0)\nYou may need an appropriate loader to handle this file type.\n| \n> .icon1 {\n|   background-image: url('./img/inside.svg');\n|   width: 113px;\n @ ./src/index.js 18:0-49",
+    "./src/js/common.js 3:15\nModule parse failed: Unexpected token (3:15)\nYou may need an appropriate loader to handle this file type.\n| $(document).ready(function(){\n|     $('my_slider').slick({\n>         setting-name: setting-value\n| });\n @ ./src/index.js 1:0-23"
+  ],
+  "warnings": [
+    "configuration\nThe 'mode' option has not been set, webpack will fallback to 'production' for this value. Set 'mode' option to 'development' or 'production' to enable defaults for each environment.\nYou can also set it to 'none' to disable any default behavior. Learn more: https://webpack.js.org/concepts/mode/"
+  ],
+  "version": "4.29.6",
+  "hash": "0571b27c490954be845b",
+  "time": 1003,
+  "builtAt": 1554883453203,
+  "publicPath": "",
+  "outputPath": "/Applications/MAMP/htdocs/Dali_2/dist",
+  "assetsByChunkName": {
+    "main": "main.js"
+  },
+  "assets": [
+    {
+      "name": "main.js",
+      "size": 6605,
+      "chunks": [
+        0
+      ],
+      "chunkNames": [
+        "main"
+      ],
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "main": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "main.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "main": {
+      "chunks": [
+        0
+      ],
+      "assets": [
+        "main.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "chunks": [
+    {
+      "id": 0,
+      "rendered": true,
+      "initial": true,
+      "entry": true,
+      "size": 6451,
+      "names": [
+        "main"
+      ],
+      "files": [
+        "main.js"
+      ],
+      "hash": "c8ba6034926687f03ec7",
+      "siblings": [],
+      "parents": [],
+      "children": [],
+      "childrenByOrder": {},
+      "modules": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "index": 0,
+          "index2": 29,
+          "size": 1402,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": null,
+          "issuerId": null,
+          "issuerName": null,
+          "issuerPath": null,
+          "profile": {
+            "factory": 65,
+            "building": 24
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": null,
+              "moduleIdentifier": null,
+              "module": null,
+              "moduleName": null,
+              "type": "single entry",
+              "userRequest": "./src",
+              "loc": "main"
+            }
+          ],
+          "usedExports": true,
+          "providedExports": [],
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is an entry point"
+          ],
+          "depth": 0,
+          "source": "import './js/common.js'\nimport './fonts/fonts.scss'\nimport './scss/_custom.scss'\nimport './blocks/template/template.scss'\nimport './blocks/first_screen/first_screen.scss'\nimport './blocks/first_screen/__menu/__menu.scss'\nimport './blocks/first_screen/__title/__title.scss'\nimport './blocks/first_screen/__booking_module/__module.scss'\nimport './blocks/hotel/hotel.scss'\nimport './blocks/hotel/__title/hotel__title.scss'\nimport './blocks/hotel/__text/hotel__text.scss'\nimport './blocks/discount/discount.scss'\nimport './blocks/discount/__module/discount__module.scss'\nimport './blocks/footer/footer.scss'\nimport './blocks/footer/footer__icons.scss'\nimport './blocks/hotel/__slider/hotel__slider.scss'\nimport './blocks/hotel/__slider/hotel__slider--rating.scss'\nimport './blocks/hotel/__icons/hotel__icons.scss'\nimport './blocks/map/map.scss'\nimport './blocks/recall/recall.scss'\nimport './blocks/reviews/reviews.scss'\nimport './blocks/reviews/__slider/reviews__slider-point.scss'\nimport './blocks/reviews/__slider/reviews__slider.scss'\nimport './blocks/reviews/__block-review/__rating/reviews__rating.scss'\nimport './blocks/reviews/__block-review/__quotes/review__quotes.scss'\nimport './blocks/reviews/__block-review/rewievs__block-review.scss'\nimport './blocks/hotel/__slider/hotel__slider.js'\nimport './blocks/recall/__text/recall__text.scss'\nimport './blocks/recall/__form-sms/recall__form-sms.scss'\n"
+        },
+        {
+          "id": 1,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/js/common.js",
+          "name": "./src/js/common.js",
+          "index": 1,
+          "index2": 0,
+          "size": 235,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./js/common.js",
+              "loc": "1:0-23"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (3:15)\\nYou may need an appropriate loader to handle this file type.\\n| $(document).ready(function(){\\n|     $('my_slider').slick({\\n>         setting-name: setting-value\\n| });\");"
+        },
+        {
+          "id": 2,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/fonts/fonts.scss",
+          "name": "./src/fonts/fonts.scss",
+          "index": 2,
+          "index2": 1,
+          "size": 223,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./fonts/fonts.scss",
+              "loc": "2:0-27"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @font-face {\\n|     font-family:  'Exo';\\n|     src: url('../fonts/Exo2-Regular.eot');\");"
+        },
+        {
+          "id": 3,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/scss/_custom.scss",
+          "name": "./src/scss/_custom.scss",
+          "index": 3,
+          "index2": 2,
+          "size": 215,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./scss/_custom.scss",
+              "loc": "3:0-28"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @import \\\"node_modules/bootstrap/scss/bootstrap\\\";\\n| \\n| $btn-color: #A73D61;\");"
+        },
+        {
+          "id": 4,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/template/template.scss",
+          "name": "./src/blocks/template/template.scss",
+          "index": 4,
+          "index2": 3,
+          "size": 182,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/template/template.scss",
+              "loc": "4:0-40"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:5)\\nYou may need an appropriate loader to handle this file type.\\n> body {\\n|   max-width: 2480px;\\n|   min-width: 320px;\");"
+        },
+        {
+          "id": 5,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/first_screen.scss",
+          "name": "./src/blocks/first_screen/first_screen.scss",
+          "index": 5,
+          "index2": 4,
+          "size": 256,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/first_screen/first_screen.scss",
+              "loc": "5:0-48"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hello {\\n|   background: white url('../../img/sliders/1st_screen/img_1_screen.jpg') top center no-repeat ;\\n|   height: 720px;\");"
+        },
+        {
+          "id": 6,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__menu/__menu.scss",
+          "name": "./src/blocks/first_screen/__menu/__menu.scss",
+          "index": 6,
+          "index2": 5,
+          "size": 190,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/first_screen/__menu/__menu.scss",
+              "loc": "6:0-49"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .menu_font {\\n|   font-size: 1.4rem;\\n|   font-family: 'Exo';\");"
+        },
+        {
+          "id": 7,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__title/__title.scss",
+          "name": "./src/blocks/first_screen/__title/__title.scss",
+          "index": 7,
+          "index2": 6,
+          "size": 207,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/first_screen/__title/__title.scss",
+              "loc": "7:0-51"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .__title {\\n|   background-color: rgba(255, 255, 255, 0.4);\\n|   color: black;\");"
+        },
+        {
+          "id": 8,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__booking_module/__module.scss",
+          "name": "./src/blocks/first_screen/__booking_module/__module.scss",
+          "index": 8,
+          "index2": 7,
+          "size": 208,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/first_screen/__booking_module/__module.scss",
+              "loc": "8:0-61"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .__module {\\n|   background-color: rgba(255, 255, 255, 0.4);\\n|   color: black;\");"
+        },
+        {
+          "id": 9,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/hotel.scss",
+          "name": "./src/blocks/hotel/hotel.scss",
+          "index": 9,
+          "index2": 8,
+          "size": 196,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/hotel.scss",
+              "loc": "9:0-34"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @mixin marata_font {\\n|   padding: 2vw;\\n|   height: 720px;\");"
+        },
+        {
+          "id": 10,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__title/hotel__title.scss",
+          "name": "./src/blocks/hotel/__title/hotel__title.scss",
+          "index": 10,
+          "index2": 9,
+          "size": 198,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__title/hotel__title.scss",
+              "loc": "10:0-49"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hotel__title--h1 {\\n|   margin-bottom: 0px;\\n|   font-style: normal;\");"
+        },
+        {
+          "id": 11,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__text/hotel__text.scss",
+          "name": "./src/blocks/hotel/__text/hotel__text.scss",
+          "index": 11,
+          "index2": 10,
+          "size": 194,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__text/hotel__text.scss",
+              "loc": "11:0-47"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hotel__text {\\n|   font-style: normal;\\n|   font-weight: normal;\");"
+        },
+        {
+          "id": 12,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/discount/discount.scss",
+          "name": "./src/blocks/discount/discount.scss",
+          "index": 12,
+          "index2": 11,
+          "size": 212,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/discount/discount.scss",
+              "loc": "12:0-40"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .discount {\\n|   background-image: url('../../img/action.jpg');\\n|   height: 400px;\");"
+        },
+        {
+          "id": 13,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/discount/__module/discount__module.scss",
+          "name": "./src/blocks/discount/__module/discount__module.scss",
+          "index": 13,
+          "index2": 12,
+          "size": 197,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/discount/__module/discount__module.scss",
+              "loc": "13:0-57"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .discount__text--style {\\n|   font-style: Exo;\\n|   font-size: 24px;\");"
+        },
+        {
+          "id": 14,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/footer/footer.scss",
+          "name": "./src/blocks/footer/footer.scss",
+          "index": 14,
+          "index2": 13,
+          "size": 254,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/footer/footer.scss",
+              "loc": "14:0-36"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .footer--bgcolor {\\n|   height: 200px;\\n|   background: linear-gradient(180deg, rgba(118, 141, 167, 0) 39.23%, #768DA7 100%);\");"
+        },
+        {
+          "id": 15,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/footer/footer__icons.scss",
+          "name": "./src/blocks/footer/footer__icons.scss",
+          "index": 15,
+          "index2": 14,
+          "size": 178,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/footer/footer__icons.scss",
+              "loc": "15:0-43"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .footer__icons {\\n|   display: inline-block;\\n| }\");"
+        },
+        {
+          "id": 16,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider.scss",
+          "name": "./src/blocks/hotel/__slider/hotel__slider.scss",
+          "index": 16,
+          "index2": 15,
+          "size": 221,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__slider/hotel__slider.scss",
+              "loc": "16:0-51"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .slider-close {\\n|   background-color: aqua;\\n|   background-image: url('hotel__img/2.jpg');\");"
+        },
+        {
+          "id": 17,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider--rating.scss",
+          "name": "./src/blocks/hotel/__slider/hotel__slider--rating.scss",
+          "index": 17,
+          "index2": 16,
+          "size": 0,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__slider/hotel__slider--rating.scss",
+              "loc": "17:0-59"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": ""
+        },
+        {
+          "id": 18,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__icons/hotel__icons.scss",
+          "name": "./src/blocks/hotel/__icons/hotel__icons.scss",
+          "index": 18,
+          "index2": 17,
+          "size": 208,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__icons/hotel__icons.scss",
+              "loc": "18:0-49"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (2:0)\\nYou may need an appropriate loader to handle this file type.\\n| \\n> .icon1 {\\n|   background-image: url('./img/inside.svg');\\n|   width: 113px;\");"
+        },
+        {
+          "id": 19,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/map/map.scss",
+          "name": "./src/blocks/map/map.scss",
+          "index": 19,
+          "index2": 18,
+          "size": 190,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/map/map.scss",
+              "loc": "19:0-30"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .map__title {\\n|   font-style: normal;\\n|   font-weight: 800;\");"
+        },
+        {
+          "id": 20,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/recall.scss",
+          "name": "./src/blocks/recall/recall.scss",
+          "index": 20,
+          "index2": 19,
+          "size": 283,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/recall/recall.scss",
+              "loc": "20:0-36"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .recall {\\n|   background: linear-gradient(265.5deg, #FFFFFF 13.18%, rgba(255, 255, 255, 0) 27.15%), url('../../img/woman_smile.jpg');\\n|   height: 365px;\");"
+        },
+        {
+          "id": 21,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/reviews.scss",
+          "name": "./src/blocks/reviews/reviews.scss",
+          "index": 21,
+          "index2": 20,
+          "size": 168,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/reviews.scss",
+              "loc": "21:0-38"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .review\\t{}\\n| \\n| .reviews--style-h3 {\");"
+        },
+        {
+          "id": 22,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__slider/reviews__slider-point.scss",
+          "name": "./src/blocks/reviews/__slider/reviews__slider-point.scss",
+          "index": 22,
+          "index2": 21,
+          "size": 0,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/__slider/reviews__slider-point.scss",
+              "loc": "22:0-61"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": ""
+        },
+        {
+          "id": 23,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__slider/reviews__slider.scss",
+          "name": "./src/blocks/reviews/__slider/reviews__slider.scss",
+          "index": 23,
+          "index2": 22,
+          "size": 0,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/__slider/reviews__slider.scss",
+              "loc": "23:0-55"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": ""
+        },
+        {
+          "id": 24,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/__rating/reviews__rating.scss",
+          "name": "./src/blocks/reviews/__block-review/__rating/reviews__rating.scss",
+          "index": 24,
+          "index2": 23,
+          "size": 225,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/__block-review/__rating/reviews__rating.scss",
+              "loc": "24:0-70"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__rating {\\n|   background-image: url('../../../../img/icons/10.svg');\\n|   width: 81px;\");"
+        },
+        {
+          "id": 25,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/__quotes/review__quotes.scss",
+          "name": "./src/blocks/reviews/__block-review/__quotes/review__quotes.scss",
+          "index": 25,
+          "index2": 24,
+          "size": 228,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/__block-review/__quotes/review__quotes.scss",
+              "loc": "25:0-69"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__quotes{\\n|   background-image: url('../../../../img/icons/quotes.svg');\\n|   width: 33px;\");"
+        },
+        {
+          "id": 26,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/rewievs__block-review.scss",
+          "name": "./src/blocks/reviews/__block-review/rewievs__block-review.scss",
+          "index": 26,
+          "index2": 25,
+          "size": 188,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/reviews/__block-review/rewievs__block-review.scss",
+              "loc": "26:0-67"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__block-review-about {\\n|   font-weight: bold;\\n| }\");"
+        },
+        {
+          "id": 27,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider.js",
+          "name": "./src/blocks/hotel/__slider/hotel__slider.js",
+          "index": 27,
+          "index2": 26,
+          "size": 0,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/hotel/__slider/hotel__slider.js",
+              "loc": "27:0-49"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": ""
+        },
+        {
+          "id": 28,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/__text/recall__text.scss",
+          "name": "./src/blocks/recall/__text/recall__text.scss",
+          "index": 28,
+          "index2": 27,
+          "size": 193,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": true,
+          "errors": 1,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/recall/__text/recall__text.scss",
+              "loc": "28:0-49"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .recall__title {\\n|   font-style: normal;\\n|   font-weight: 800;\");"
+        },
+        {
+          "id": 29,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/__form-sms/recall__form-sms.scss",
+          "name": "./src/blocks/recall/__form-sms/recall__form-sms.scss",
+          "index": 29,
+          "index2": 28,
+          "size": 0,
+          "cacheable": true,
+          "built": true,
+          "optional": false,
+          "prefetched": false,
+          "chunks": [
+            0
+          ],
+          "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "issuerId": 0,
+          "issuerName": "./src/index.js",
+          "issuerPath": [
+            {
+              "id": 0,
+              "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "name": "./src/index.js",
+              "profile": {
+                "factory": 65,
+                "building": 24
+              }
+            }
+          ],
+          "profile": {
+            "factory": 275,
+            "building": 60
+          },
+          "failed": false,
+          "errors": 0,
+          "warnings": 0,
+          "assets": [],
+          "reasons": [
+            {
+              "moduleId": 0,
+              "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+              "module": "./src/index.js",
+              "moduleName": "./src/index.js",
+              "type": "harmony side effect evaluation",
+              "userRequest": "./blocks/recall/__form-sms/recall__form-sms.scss",
+              "loc": "29:0-57"
+            }
+          ],
+          "usedExports": false,
+          "providedExports": null,
+          "optimizationBailout": [
+            "ModuleConcatenation bailout: Module is not an ECMAScript module"
+          ],
+          "depth": 1,
+          "source": ""
+        }
+      ],
+      "filteredModules": 0,
+      "origins": [
+        {
+          "module": "",
+          "moduleIdentifier": "",
+          "moduleName": "",
+          "loc": "main",
+          "request": "./src",
+          "reasons": []
+        }
+      ]
+    }
+  ],
+  "modules": [
+    {
+      "id": 0,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "name": "./src/index.js",
+      "index": 0,
+      "index2": 29,
+      "size": 1402,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": null,
+      "issuerId": null,
+      "issuerName": null,
+      "issuerPath": null,
+      "profile": {
+        "factory": 65,
+        "building": 24
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": null,
+          "moduleIdentifier": null,
+          "module": null,
+          "moduleName": null,
+          "type": "single entry",
+          "userRequest": "./src",
+          "loc": "main"
+        }
+      ],
+      "usedExports": true,
+      "providedExports": [],
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is an entry point"
+      ],
+      "depth": 0,
+      "source": "import './js/common.js'\nimport './fonts/fonts.scss'\nimport './scss/_custom.scss'\nimport './blocks/template/template.scss'\nimport './blocks/first_screen/first_screen.scss'\nimport './blocks/first_screen/__menu/__menu.scss'\nimport './blocks/first_screen/__title/__title.scss'\nimport './blocks/first_screen/__booking_module/__module.scss'\nimport './blocks/hotel/hotel.scss'\nimport './blocks/hotel/__title/hotel__title.scss'\nimport './blocks/hotel/__text/hotel__text.scss'\nimport './blocks/discount/discount.scss'\nimport './blocks/discount/__module/discount__module.scss'\nimport './blocks/footer/footer.scss'\nimport './blocks/footer/footer__icons.scss'\nimport './blocks/hotel/__slider/hotel__slider.scss'\nimport './blocks/hotel/__slider/hotel__slider--rating.scss'\nimport './blocks/hotel/__icons/hotel__icons.scss'\nimport './blocks/map/map.scss'\nimport './blocks/recall/recall.scss'\nimport './blocks/reviews/reviews.scss'\nimport './blocks/reviews/__slider/reviews__slider-point.scss'\nimport './blocks/reviews/__slider/reviews__slider.scss'\nimport './blocks/reviews/__block-review/__rating/reviews__rating.scss'\nimport './blocks/reviews/__block-review/__quotes/review__quotes.scss'\nimport './blocks/reviews/__block-review/rewievs__block-review.scss'\nimport './blocks/hotel/__slider/hotel__slider.js'\nimport './blocks/recall/__text/recall__text.scss'\nimport './blocks/recall/__form-sms/recall__form-sms.scss'\n"
+    },
+    {
+      "id": 1,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/js/common.js",
+      "name": "./src/js/common.js",
+      "index": 1,
+      "index2": 0,
+      "size": 235,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./js/common.js",
+          "loc": "1:0-23"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (3:15)\\nYou may need an appropriate loader to handle this file type.\\n| $(document).ready(function(){\\n|     $('my_slider').slick({\\n>         setting-name: setting-value\\n| });\");"
+    },
+    {
+      "id": 2,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/fonts/fonts.scss",
+      "name": "./src/fonts/fonts.scss",
+      "index": 2,
+      "index2": 1,
+      "size": 223,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./fonts/fonts.scss",
+          "loc": "2:0-27"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @font-face {\\n|     font-family:  'Exo';\\n|     src: url('../fonts/Exo2-Regular.eot');\");"
+    },
+    {
+      "id": 3,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/scss/_custom.scss",
+      "name": "./src/scss/_custom.scss",
+      "index": 3,
+      "index2": 2,
+      "size": 215,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./scss/_custom.scss",
+          "loc": "3:0-28"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @import \\\"node_modules/bootstrap/scss/bootstrap\\\";\\n| \\n| $btn-color: #A73D61;\");"
+    },
+    {
+      "id": 4,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/template/template.scss",
+      "name": "./src/blocks/template/template.scss",
+      "index": 4,
+      "index2": 3,
+      "size": 182,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/template/template.scss",
+          "loc": "4:0-40"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:5)\\nYou may need an appropriate loader to handle this file type.\\n> body {\\n|   max-width: 2480px;\\n|   min-width: 320px;\");"
+    },
+    {
+      "id": 5,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/first_screen.scss",
+      "name": "./src/blocks/first_screen/first_screen.scss",
+      "index": 5,
+      "index2": 4,
+      "size": 256,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/first_screen/first_screen.scss",
+          "loc": "5:0-48"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hello {\\n|   background: white url('../../img/sliders/1st_screen/img_1_screen.jpg') top center no-repeat ;\\n|   height: 720px;\");"
+    },
+    {
+      "id": 6,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__menu/__menu.scss",
+      "name": "./src/blocks/first_screen/__menu/__menu.scss",
+      "index": 6,
+      "index2": 5,
+      "size": 190,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/first_screen/__menu/__menu.scss",
+          "loc": "6:0-49"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .menu_font {\\n|   font-size: 1.4rem;\\n|   font-family: 'Exo';\");"
+    },
+    {
+      "id": 7,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__title/__title.scss",
+      "name": "./src/blocks/first_screen/__title/__title.scss",
+      "index": 7,
+      "index2": 6,
+      "size": 207,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/first_screen/__title/__title.scss",
+          "loc": "7:0-51"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .__title {\\n|   background-color: rgba(255, 255, 255, 0.4);\\n|   color: black;\");"
+    },
+    {
+      "id": 8,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/first_screen/__booking_module/__module.scss",
+      "name": "./src/blocks/first_screen/__booking_module/__module.scss",
+      "index": 8,
+      "index2": 7,
+      "size": 208,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/first_screen/__booking_module/__module.scss",
+          "loc": "8:0-61"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .__module {\\n|   background-color: rgba(255, 255, 255, 0.4);\\n|   color: black;\");"
+    },
+    {
+      "id": 9,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/hotel.scss",
+      "name": "./src/blocks/hotel/hotel.scss",
+      "index": 9,
+      "index2": 8,
+      "size": 196,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/hotel.scss",
+          "loc": "9:0-34"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected character '@' (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> @mixin marata_font {\\n|   padding: 2vw;\\n|   height: 720px;\");"
+    },
+    {
+      "id": 10,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__title/hotel__title.scss",
+      "name": "./src/blocks/hotel/__title/hotel__title.scss",
+      "index": 10,
+      "index2": 9,
+      "size": 198,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__title/hotel__title.scss",
+          "loc": "10:0-49"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hotel__title--h1 {\\n|   margin-bottom: 0px;\\n|   font-style: normal;\");"
+    },
+    {
+      "id": 11,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__text/hotel__text.scss",
+      "name": "./src/blocks/hotel/__text/hotel__text.scss",
+      "index": 11,
+      "index2": 10,
+      "size": 194,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__text/hotel__text.scss",
+          "loc": "11:0-47"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .hotel__text {\\n|   font-style: normal;\\n|   font-weight: normal;\");"
+    },
+    {
+      "id": 12,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/discount/discount.scss",
+      "name": "./src/blocks/discount/discount.scss",
+      "index": 12,
+      "index2": 11,
+      "size": 212,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/discount/discount.scss",
+          "loc": "12:0-40"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .discount {\\n|   background-image: url('../../img/action.jpg');\\n|   height: 400px;\");"
+    },
+    {
+      "id": 13,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/discount/__module/discount__module.scss",
+      "name": "./src/blocks/discount/__module/discount__module.scss",
+      "index": 13,
+      "index2": 12,
+      "size": 197,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/discount/__module/discount__module.scss",
+          "loc": "13:0-57"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .discount__text--style {\\n|   font-style: Exo;\\n|   font-size: 24px;\");"
+    },
+    {
+      "id": 14,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/footer/footer.scss",
+      "name": "./src/blocks/footer/footer.scss",
+      "index": 14,
+      "index2": 13,
+      "size": 254,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/footer/footer.scss",
+          "loc": "14:0-36"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .footer--bgcolor {\\n|   height: 200px;\\n|   background: linear-gradient(180deg, rgba(118, 141, 167, 0) 39.23%, #768DA7 100%);\");"
+    },
+    {
+      "id": 15,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/footer/footer__icons.scss",
+      "name": "./src/blocks/footer/footer__icons.scss",
+      "index": 15,
+      "index2": 14,
+      "size": 178,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/footer/footer__icons.scss",
+          "loc": "15:0-43"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .footer__icons {\\n|   display: inline-block;\\n| }\");"
+    },
+    {
+      "id": 16,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider.scss",
+      "name": "./src/blocks/hotel/__slider/hotel__slider.scss",
+      "index": 16,
+      "index2": 15,
+      "size": 221,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__slider/hotel__slider.scss",
+          "loc": "16:0-51"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .slider-close {\\n|   background-color: aqua;\\n|   background-image: url('hotel__img/2.jpg');\");"
+    },
+    {
+      "id": 17,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider--rating.scss",
+      "name": "./src/blocks/hotel/__slider/hotel__slider--rating.scss",
+      "index": 17,
+      "index2": 16,
+      "size": 0,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__slider/hotel__slider--rating.scss",
+          "loc": "17:0-59"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": ""
+    },
+    {
+      "id": 18,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__icons/hotel__icons.scss",
+      "name": "./src/blocks/hotel/__icons/hotel__icons.scss",
+      "index": 18,
+      "index2": 17,
+      "size": 208,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__icons/hotel__icons.scss",
+          "loc": "18:0-49"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (2:0)\\nYou may need an appropriate loader to handle this file type.\\n| \\n> .icon1 {\\n|   background-image: url('./img/inside.svg');\\n|   width: 113px;\");"
+    },
+    {
+      "id": 19,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/map/map.scss",
+      "name": "./src/blocks/map/map.scss",
+      "index": 19,
+      "index2": 18,
+      "size": 190,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/map/map.scss",
+          "loc": "19:0-30"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .map__title {\\n|   font-style: normal;\\n|   font-weight: 800;\");"
+    },
+    {
+      "id": 20,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/recall.scss",
+      "name": "./src/blocks/recall/recall.scss",
+      "index": 20,
+      "index2": 19,
+      "size": 283,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/recall/recall.scss",
+          "loc": "20:0-36"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .recall {\\n|   background: linear-gradient(265.5deg, #FFFFFF 13.18%, rgba(255, 255, 255, 0) 27.15%), url('../../img/woman_smile.jpg');\\n|   height: 365px;\");"
+    },
+    {
+      "id": 21,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/reviews.scss",
+      "name": "./src/blocks/reviews/reviews.scss",
+      "index": 21,
+      "index2": 20,
+      "size": 168,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/reviews.scss",
+          "loc": "21:0-38"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .review\\t{}\\n| \\n| .reviews--style-h3 {\");"
+    },
+    {
+      "id": 22,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__slider/reviews__slider-point.scss",
+      "name": "./src/blocks/reviews/__slider/reviews__slider-point.scss",
+      "index": 22,
+      "index2": 21,
+      "size": 0,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/__slider/reviews__slider-point.scss",
+          "loc": "22:0-61"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": ""
+    },
+    {
+      "id": 23,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__slider/reviews__slider.scss",
+      "name": "./src/blocks/reviews/__slider/reviews__slider.scss",
+      "index": 23,
+      "index2": 22,
+      "size": 0,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/__slider/reviews__slider.scss",
+          "loc": "23:0-55"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": ""
+    },
+    {
+      "id": 24,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/__rating/reviews__rating.scss",
+      "name": "./src/blocks/reviews/__block-review/__rating/reviews__rating.scss",
+      "index": 24,
+      "index2": 23,
+      "size": 225,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/__block-review/__rating/reviews__rating.scss",
+          "loc": "24:0-70"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__rating {\\n|   background-image: url('../../../../img/icons/10.svg');\\n|   width: 81px;\");"
+    },
+    {
+      "id": 25,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/__quotes/review__quotes.scss",
+      "name": "./src/blocks/reviews/__block-review/__quotes/review__quotes.scss",
+      "index": 25,
+      "index2": 24,
+      "size": 228,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/__block-review/__quotes/review__quotes.scss",
+          "loc": "25:0-69"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__quotes{\\n|   background-image: url('../../../../img/icons/quotes.svg');\\n|   width: 33px;\");"
+    },
+    {
+      "id": 26,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/reviews/__block-review/rewievs__block-review.scss",
+      "name": "./src/blocks/reviews/__block-review/rewievs__block-review.scss",
+      "index": 26,
+      "index2": 25,
+      "size": 188,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/reviews/__block-review/rewievs__block-review.scss",
+          "loc": "26:0-67"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .reviews__block-review-about {\\n|   font-weight: bold;\\n| }\");"
+    },
+    {
+      "id": 27,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/hotel/__slider/hotel__slider.js",
+      "name": "./src/blocks/hotel/__slider/hotel__slider.js",
+      "index": 27,
+      "index2": 26,
+      "size": 0,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/hotel/__slider/hotel__slider.js",
+          "loc": "27:0-49"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": ""
+    },
+    {
+      "id": 28,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/__text/recall__text.scss",
+      "name": "./src/blocks/recall/__text/recall__text.scss",
+      "index": 28,
+      "index2": 27,
+      "size": 193,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": true,
+      "errors": 1,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/recall/__text/recall__text.scss",
+          "loc": "28:0-49"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": "throw new Error(\"Module parse failed: Unexpected token (1:0)\\nYou may need an appropriate loader to handle this file type.\\n> .recall__title {\\n|   font-style: normal;\\n|   font-weight: 800;\");"
+    },
+    {
+      "id": 29,
+      "identifier": "/Applications/MAMP/htdocs/Dali_2/src/blocks/recall/__form-sms/recall__form-sms.scss",
+      "name": "./src/blocks/recall/__form-sms/recall__form-sms.scss",
+      "index": 29,
+      "index2": 28,
+      "size": 0,
+      "cacheable": true,
+      "built": true,
+      "optional": false,
+      "prefetched": false,
+      "chunks": [
+        0
+      ],
+      "issuer": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+      "issuerId": 0,
+      "issuerName": "./src/index.js",
+      "issuerPath": [
+        {
+          "id": 0,
+          "identifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "name": "./src/index.js",
+          "profile": {
+            "factory": 65,
+            "building": 24
+          }
+        }
+      ],
+      "profile": {
+        "factory": 275,
+        "building": 60
+      },
+      "failed": false,
+      "errors": 0,
+      "warnings": 0,
+      "assets": [],
+      "reasons": [
+        {
+          "moduleId": 0,
+          "moduleIdentifier": "/Applications/MAMP/htdocs/Dali_2/src/index.js",
+          "module": "./src/index.js",
+          "moduleName": "./src/index.js",
+          "type": "harmony side effect evaluation",
+          "userRequest": "./blocks/recall/__form-sms/recall__form-sms.scss",
+          "loc": "29:0-57"
+        }
+      ],
+      "usedExports": false,
+      "providedExports": null,
+      "optimizationBailout": [
+        "ModuleConcatenation bailout: Module is not an ECMAScript module"
+      ],
+      "depth": 1,
+      "source": ""
+    }
+  ],
+  "filteredModules": 0,
+  "children": []
+}
