@@ -3,12 +3,12 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const DuplicatePackageCheckerPlugin = require("duplicate-package-checker-webpack-plugin");
-const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
-const CleanWebpackPlugin = require("clean-webpack-plugin")
 
 module.exports = {
     plugins: [new DuplicatePackageCheckerPlugin()]
 };
+
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = {
     plugins: [
@@ -89,9 +89,10 @@ module.exports = {
                         options: { sourceMap: true, config: { path: `${PATHS.src}/js/postcss.config.js` } }
                     }, {
                         loader: 'sass-loader',
-                        options: {sourceMap: true}
-                        }
-                        ]
+                        options: {
+                            sourceMap: true}
+                }
+                ]
             }, {
                 test: /\.css$/,
                 use: [
@@ -107,9 +108,8 @@ module.exports = {
             }]
     },
     plugins: [
-        new CleanWebpackPlugin(),
         new MiniCssExtractPlugin({
-            filename: "app.[hash].css"
+            filename: `${PATHS.assets}css/[name].css`,
         }),
         new HtmlWebpackPlugin({
             hash: false,
