@@ -1,0 +1,18 @@
+.color_types--mixin{
+  width: 70px;
+  height: 70px;
+  border-radius: 6px;
+
+    &--text_up {
+      font: $ui-font-subtitle;
+    }
+    &--text_down{
+      font-weight: normal;
+      font-family: $ui-font-family;
+    }
+}
+
+.color_types--shadow {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+

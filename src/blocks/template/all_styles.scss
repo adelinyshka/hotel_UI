@@ -1,4 +1,6 @@
-$wowo: #260CFF;
-
-$red: #FF42B6;
+@import '../../scss/variables';
+@import 'template';
+@import '../color_types/color_types';
+@import '../color_types/color_types_mixins/color_types--mixin';
+@import '../color_types/text_example--mixin/text_example--mixin';
 
