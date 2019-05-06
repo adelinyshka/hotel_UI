@@ -1,6 +1,7 @@
 .text-example__mixin {
   display: flex;
   justify-content: flex-start;
+  align-items: flex-start;
 
 
     &--type{
@@ -12,6 +13,5 @@
     &--text{
       width: 90%;
       padding-bottom: 3.9vw;
-      line-height: 1;
     }
 }
