@@ -1,3 +1,12 @@
+.colors-and-types--wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.color_types--shadow {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+//colors
 .first {
   background-color: $ui-dark-shade-100;
 }
@@ -25,17 +34,21 @@
 .seventh {
   background-color: $ui-green;
 }
+//text-styles
+.text_example {
+  max-width: 39%;
+}
 
-.text_example--title {
+.text-example--title {
   font: $ui-font-title;
 }
-.text_example--subtitle {
+.text-example--subtitle {
   font:$ui-font-subtitle;
 }
-.text_example--label {
+.text-example--label {
   font:$ui-font-label;
 }
-.text_example--body {
+.text-example--body {
   font:$ui-font-text;
 }
 

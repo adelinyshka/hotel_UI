@@ -1,0 +1,17 @@
+.text-example__mixin {
+  display: flex;
+  justify-content: flex-start;
+
+
+    &--type{
+      color: rgba(31, 32, 65, 0.25);
+      text-align: right;
+      width: 10%;
+    }
+
+    &--text{
+      width: 90%;
+      padding-bottom: 3.9vw;
+      line-height: 1;
+    }
+}

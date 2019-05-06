@@ -1,0 +1,19 @@
+include color-mixin/color-mixin
+include type-mixin/text_example--mixin
+
+.colors-and-types--wrapper
+	.colors
+		+color('first','Dark Shade 100%','#1F2041').color_types--shadow
+		+color('second','Dark Shade 75%','#1F2041')
+		+color('third','Dark Shade 50%','#1F2041')
+		+color('fourth','Dark Shade 25%','#1F2041')
+		+color('fifth','Dark Shade 5%','#1F2041')
+		+color('sixth','Purple','#BC9CFF')
+		+color('seventh','Green','#6FCF97')
+
+	.text_example
+		+text_example('title','H1','This one is the sub-section or\n' + 'widget title')
+		+text_example('subtitle','H2','Next one is the item title inside\n' + 'widgets')
+		+text_example('label','H3','This is a label or CTA text')
+		+text_example('body','Body','This is the body text which is used for most\n' +
+    'of the design, like paragraphs, lists, etc.')
