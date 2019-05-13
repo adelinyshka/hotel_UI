@@ -9,6 +9,7 @@
 .default-text-field__label--style {
   font: $ui-font-label;
   color: $ui-dark-shade-100;
+  text-transform: uppercase;
 }
 
 .default-text-field--specification {
@@ -24,6 +25,6 @@
   border: 1px solid $ui-dark-shade-25;
   padding: 10px;
   font: $ui-font-text;
-  min-width: 320px;
+  min-width: 300px;
   color: $ui-dark-shade-25;
 }
