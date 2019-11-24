@@ -4,4 +4,5 @@ mixin hover-text-field(text)
 		.hover-text-field--wrapper
 			label(for='some-text' class='default-text-field__label--style') Text Field
 			.hover-text-field--specification hover/focus
-		input(name='some-text' id='some-text' class="hover-text-field__input--style" placeholder=text)
+		input(name='some-text' id='some-text'
+			class="hover-text-field__input--style" value=text)
