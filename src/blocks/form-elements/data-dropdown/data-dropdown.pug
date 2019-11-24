@@ -3,8 +3,11 @@ mixin data-dropdown()
 	.data-dropdown--wrapper
 		.data-dropdown--wrapper--data1
 			label(for='data-dropdown' class='data-dropdown__label--style') data Dropdown
-			input(name='data-dropdown' id='data-dropdown1' class="data-dropdown__input--style" type='date')
+			.data-dropdown
+				input(name='data-dropdown' id='data-dropdown1' class="data-dropdown__input--style" type='date')
 
 		.data-dropdown--wrapper--data2
 			label(for='data-dropdown2' class='data-dropdown__label--style') data Dropdown
 			input(name='data-dropdown2' id='data-dropdown2' class="data-dropdown__input--style" type='date')
+			div(pseudo='-webkit-calendar-picker-indicator')
+		.hello2

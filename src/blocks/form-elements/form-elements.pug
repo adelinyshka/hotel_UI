@@ -1,13 +1,13 @@
 include ./default-text-field/default-text-field
-include ./text-field-hover/text-field-hover
-include ./drop-down-default/drop-down-default
+include hover-text-field/hover-text-field
+include dropdown-default/dropdown-default
 include ./masked-text-field/masked-text-field
 include ./data-dropdown/data-dropdown
 
 
 form.form-elements
-	+default-text-field('Email')
-	+text-field-hover('This is pretty awesome')
-	+drop-down-default('Сколько гостей')
+	+default-text-field('Email', 'default','')
+	+hover-text-field('This is pretty awesome')
+	+dropdown-default('Сколько гостей')
 	+mask-text-field()
 	+data-dropdown()

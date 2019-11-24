@@ -5,16 +5,16 @@ const HtmlWebpackPlugin = require('html-webpack-plugin');
 const DuplicatePackageCheckerPlugin = require("duplicate-package-checker-webpack-plugin");
 
 module.exports = {
-    plugins: [new DuplicatePackageCheckerPlugin()]
+	plugins: [new DuplicatePackageCheckerPlugin()]
 };
 
 const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
 module.exports = {
-    plugins: [
-        new BundleAnalyzerPlugin()
-    ]
-}
+	plugins: [
+		new BundleAnalyzerPlugin()
+	]
+};
 
 const PATHS = {
     src: path.join(__dirname, '../src'),
@@ -48,13 +48,18 @@ module.exports = {
                 },
                 exclude: PATHS.src+'/img/'
             },
-            {
-                test: /\.pug$/,
-                loader: 'pug-loader',
-                options: {
-                    pretty: true
-                }
-            }, {
+	        {
+		        test: /\.pug$/,
+		        use: [ {
+			        loader: 'html-loader',
+			        options: {
+				        attrs: ['img:src', 'link:href'] } },
+			        {
+				        loader: 'pug-html-loader',
+				        options: {
+					        pretty: true,
+					        globals: ['require'] }}]},
+	        {
                 test: /\.js$/,
                 loader: 'babel-loader',
                 exclude: '/node_modules/'
@@ -77,6 +82,13 @@ module.exports = {
                 },
                 exclude: PATHS.src+'/fonts/'
             }, {
+		        test: /\.html$/,
+		        loader: 'file-loader',
+		        options: {
+			        name: '[name].[ext]',
+			        outputPath: '/',
+		        }},
+	        {
                 test:  /\.(sass|scss)$/,
                 use: [
                     'style-loader',
@@ -117,7 +129,6 @@ module.exports = {
             filename: './index.html'
         }),
         new CopyWebpackPlugin([
-            // { from: PATHS.src + '/img', to: PATHS.assets +`/img` },
             { from: PATHS.src + '/static' },
         ])
     ],

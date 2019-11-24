@@ -1,7 +1,7 @@
-mixin default-text-field(text)
+mixin default-text-field(text_for_input, text_for_specification)
 
 	.default-text-field
 		.default-text-field--wrapper
 			label(for='email' class='default-text-field__label--style') Text Field
-			.default-text-field--specification default
-		input(name='email' id='email' class="default-text-field__input--style" placeholder=text)
+			.default-text-field--specification= text_for_specification
+		input(name='email' id='email' class="default-text-field__input--style" placeholder= text_for_input)
