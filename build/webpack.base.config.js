@@ -4,6 +4,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const DuplicatePackageCheckerPlugin = require("duplicate-package-checker-webpack-plugin");
 
+
 module.exports = {
 	plugins: [new DuplicatePackageCheckerPlugin()]
 };
