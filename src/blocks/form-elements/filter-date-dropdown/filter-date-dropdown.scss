@@ -1,78 +1,80 @@
-//.filter-date-dropdown {
-//	display: flex;
-//	justify-content: space-between;
-//	align-items: center;
-//	padding-bottom: 5px;
-//	max-width: 300px;
-//	padding-top: 20px;
-//
-//	}
-//
-//.filter-date-dropdown--wrapper{
-//	display: flex;
-//	flex-direction:column;
-//	justify-content: start;
-//	max-width: 300px;
-//	background: transparent;
-//	}
-//
-//
-//
-//.data-dropdown__label--style {
-//	font: $ui-font-label;
-//	color: $ui-dark-shade-100;
-//	text-transform: uppercase;
-//	display: inline;
-//	}
-//.data-dropdown {
-//	position: relative;
-//	}
-//
-//.data-dropdown:after {
-//	display: block;
-//	content: 'keyboard_arrow_down';
-//	font-family: 'Material Icons';
-//	font-size: 24px;
-//	color: $ui-dark-shade-50;
-//	position: absolute;
-//	right: 5px;
-//	top: 50%;
-//	transform: translateY(-50%);
-//	pointer-events: none;
-//	z-index: 2;
-//	}
-//
-//input[type=date]::-webkit-inner-spin-button {
-//	display: none;
-//	}
-//
-//input[type=date]::-webkit-calendar-picker-indicator {
-//	color: transparent;
-//	}
-//
-//.filter-date-dropdown__input--style {
-//	border-radius: 4px;
-//	border: 1px solid $ui-dark-shade-25;
-//	padding: .75rem .5rem;
-//	font: $ui-font-text;
-//	width: 300px;
-//	color: $ui-dark-shade-75;
-//	box-sizing: border-box;
-//	}
-//
-//.ui-datepicker .selected-start:not(.selected-end) a,
-//.ui-datepicker .selected-end:not(.selected-start) a {
-//	background: #F3FDD5;
-//	}
-//
-//.ui-datepicker .selected.first-of-month:not(.selected-start) a {
-//	border-left: 2px dotted #D4E7F6;
-//	padding-left: 1px;
-//	}
-//
-//.ui-datepicker .selected.last-of-month:not(.selected-end) a {
-//	border-right: 2px dotted #D4E7F6;
-//	padding-right: 1px;
-//	}
-//
-//
+.filter-date-dropdown {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding-bottom: 5px;
+	max-width: 300px;
+	padding-top: 20px;
+
+	& .__wrapper {
+		display: flex;
+		flex-direction:column;
+		justify-content: start;
+		max-width: 300px;
+		background: transparent;
+		}
+
+	& .date-dropdown {
+		position: relative;
+		}
+
+	& .date-dropdown:after {
+		display: block;
+		content: 'keyboard_arrow_down';
+		font-family: 'Material Icons';
+		font-size: 24px;
+		color: $ui-dark-shade-50;
+		position: absolute;
+		right: 5px;
+		top: 50%;
+		transform: translateY(-50%);
+		pointer-events: none;
+		z-index: 2;
+		}
+
+	&__input--style {
+		border-radius: 4px;
+		border: 1px solid $ui-dark-shade-25;
+		padding: .75rem .5rem;
+		font: $ui-font-text;
+		width: 300px;
+		color: $ui-dark-shade-75;
+		box-sizing: border-box;
+		}
+	}
+
+
+.data-dropdown__label--style {
+	font: $ui-font-label;
+	color: $ui-dark-shade-100;
+	text-transform: uppercase;
+	display: inline;
+	}
+
+
+input[type=date]::-webkit-inner-spin-button {
+	display: none;
+	}
+
+input[type=date]::-webkit-calendar-picker-indicator {
+	color: transparent;
+	}
+
+
+
+.ui-datepicker .selected-start:not(.selected-end) a,
+.ui-datepicker .selected-end:not(.selected-start) a {
+	background: #F3FDD5;
+	}
+
+.ui-datepicker .selected.first-of-month:not(.selected-start) a {
+	border-left: 2px dotted #D4E7F6;
+	padding-left: 1px;
+	}
+
+.ui-datepicker .selected.last-of-month:not(.selected-end) a {
+	border-right: 2px dotted #D4E7F6;
+	padding-right: 1px;
+	}
+
+
