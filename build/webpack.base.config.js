@@ -129,6 +129,16 @@ module.exports = {
             template: `${PATHS.src}/index.pug`,
             filename: './index.html'
         }),
+	    new HtmlWebpackPlugin({
+		    hash: false,
+		    template: `${PATHS.src}/colors-and-types.pug`,
+		    filename: './colors-and-types.html'
+	    }),
+	    new HtmlWebpackPlugin({
+		    hash: false,
+		    template: `${PATHS.src}/form-elements.pug`,
+		    filename: './form-elements.html'
+	    }),
         new CopyWebpackPlugin([
             { from: PATHS.src + '/static' },
         ])

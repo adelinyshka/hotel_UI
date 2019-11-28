@@ -1,11 +1,7 @@
-import 'air-datepicker'
 mixin filter-date-dropdown()
 
 	.filter-date-dropdown
 		.__wrapper
 			label(for='filter-date-dropdown' class='data-dropdown__label--style') filter date dropdown
-
 			.data-dropdown
-				input(type="text" data-range="true" data-multiple-dates-separator=" -" +
-				" " class="datepicker-here filter-date-dropdown__input--style"
-					data-position='bottom center' name='filter-date-dropdown')
+				input(type="text" data-range="true" data-multiple-dates-separator=" - " class="datepicker-here filter-date-dropdown__input--style" data-position='bottom center' name='filter-date-dropdown')

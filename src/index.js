@@ -10,10 +10,10 @@ import 'air-datepicker'
 import './blocks/form-elements/filter-date-dropdown/filter-date-dropdown.js'
 import './blocks/form-elements/filter-date-dropdown/filter-date-dropdown.pug'
 import './js/datepicker.js'
-// import
-// import
-// import
-// import
+import './blocks/header/header.pug'
+import './blocks/header/header.js'
+import './colors-and-types.pug'
+import './form-elements.pug'
 // import
 // import
 // import
